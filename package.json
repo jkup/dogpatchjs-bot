@@ -1,0 +1,24 @@
+{
+  "name": "dogpatchjs-bot",
+  "version": "1.0.0",
+  "description": "A Twitter bot for RSVP'ing to DogpatchJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkup/dogpatchjs-bot.git"
+  },
+  "keywords": [
+    "twitter",
+    "bot",
+    "rsvp"
+  ],
+  "author": "Jon and Myles",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jkup/dogpatchjs-bot/issues"
+  },
+  "homepage": "https://github.com/jkup/dogpatchjs-bot#readme"
+}
