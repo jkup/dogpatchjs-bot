@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/jkup/dogpatchjs-bot/issues"
   },
-  "homepage": "https://github.com/jkup/dogpatchjs-bot#readme"
+  "homepage": "https://github.com/jkup/dogpatchjs-bot#readme",
+  "dependencies": {
+    "twit": "^2.2.3"
+  }
 }
